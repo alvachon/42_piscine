@@ -1,15 +1,25 @@
-# piscine_c_42_2022
+# C Piscine
 
-## All the function that I did during the piscine! 🏊
+Here's some exercices covered during my C Piscine at 42 Quebec.
 
-**TODO . . .**\
-Well, you know. Maybe someday.\
-**KO . . .**\
-It won't work.
+## Why
+I believe it's easier to understand something by trying to implement it and figuring out why it work.
 
-### Most of the main.c are mine. 
-Check them, I put some love in it ❤️\
-It really help me to understand the all and everything of the universe.
-### Shout out for some main.c contribution 👋
-**Diego-Luna**  https://github.com/Diego-Luna \
-**Iamonego** ( I will find ur Github someday I swear )
+For me, learning how to code is the same thing as learning how to draw. At first, you will probably need some references, but with practice, you will be able to create something made all by your own mind.
+
+## Notice
+If some 42 students sneak around here, please keep in mind that cheating (not understanding) won't help you in the long run. 
+
+## Done
+C Piscine C00 -
+C Piscine C01 -
+C Piscine C02 -
+C Piscine C03 -
+C Piscine C04 -
+C Piscine C05 -
+C Piscine C06 -
+C Piscine C07 -
+C Piscine Shell 00 -
+C Piscine Shell 01
+# Version
+7.2
