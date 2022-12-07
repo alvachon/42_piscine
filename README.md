@@ -18,7 +18,7 @@ In the command line, you will need to call both of them to check the result in t
 ```
  gcc function.c main.c
 ```
-**To see the result :**
+This will execute the compiled program and display any output it produces**
 ```
  ./a.out
 ```
